@@ -41,13 +41,7 @@
 - **Database:** MySQL  
 - **Version Control:** Git & GitHub  
 
----
 
-## 🏆 Achievements
-
-🏅 CGPA: **9.14** in B.Tech (Computer Science)  
-
----
 
 ## 🎮 Fun Facts
 
